@@ -1,21 +1,34 @@
-# AuroraNet  
-AuroraNet est un modèle de deep learning qui génère des coordonnées faciales à partir d'entrées audio, en utilisant des spectrogrammes comme base d'entraînement. Cette version initiale valide l'idée en s'appuyant sur le dataset **VocazSet**.
+# AuroraNet 🚀  
+AuroraNet est un modèle de deep learning conçu pour générer des **coordonnées faciales** à partir d'entrées audio, en transformant des spectrogrammes en animations faciales réalistes.  
+🌟 Cette première version s'appuie sur le dataset public **VocaSet** pour valider le concept.  
 
-## Fonctionnalités  
-- Conversion de spectrogrammes audio en coordonnées faciales.  
-- Première étape vers la synchronisation audio-visuelle pour des applications interactives.  
+---
 
-## Technologies utilisées  
-- **Python** : Langage principal du projet.  
-- **TensorFlow** : Frameworks de deep learning.  
-- **Librosa** : Extraction de caractéristiques audio et spectrogrammes.  
-- **Seaborn** : Visualisation des données.
+## 🌟 Fonctionnalités principales  
+- 🎙️ **Conversion audio -> expressions faciales** : Synchronisation visuelle basée sur des spectrogrammes audio.  
+- 🛠️ **Première étape** vers une interaction audio-visuelle immersive.  
 
+---
 
-## Étapes futures  
-Une fois l'idée validée, l'objectif est de développer un dataset personnalisé. Ce dataset permettra non seulement de reconnaître les expressions faciales avec une plus grande précision, mais aussi d'intégrer la détection des mouvements de tête pour des interactions plus dynamiques et réalistes.  
+## 🔧 Technologies utilisées  
+- 🐍 **Python** : Langage principal.  
+- 🔬 **TensorFlow** : Framework de deep learning pour l'entraînement du modèle.  
+- 🎵 **Librosa** : Analyse audio et génération de spectrogrammes.  
+- 📊 **Seaborn** : Visualisation des résultats pour analyse des performances.  
 
-Avec cette avancée, AuroraNet pourra être utilisé dans des domaines variés comme :  
-- Les jeux vidéo et les mondes virtuels interactifs.  
-- Les avatars animés pour les applications de visioconférence.  
-- L'amélioration de la synchronisation labiale dans les films ou animations.
+---
+
+## 🚀 Étapes futures  
+🎯 Une fois l'idée validée avec **VocaSet**, l'objectif est de **passer à un dataset personnalisé**. Ce dataset permettra :  
+- 🤩 **Reconnaître les expressions faciales** avec une meilleure précision.  
+- 🤖 **Détecter les mouvements de tête** pour une interaction encore plus naturelle et dynamique.  
+
+🔍 **Applications possibles** :  
+- 🎮 **Jeux vidéo et mondes virtuels** : Synchronisation labiale et expressions réalistes pour des avatars.  
+- 🎥 **Cinéma et animation** : Amélioration des dialogues animés.  
+- 🧑‍💻 **Visioconférences** : Avatars interactifs qui réagissent naturellement.  
+
+---
+
+### 💡 Pourquoi AuroraNet ?  
+AuroraNet apporte une nouvelle dimension aux interactions homme-machine grâce à son approche innovante. Ce projet a pour ambition de repousser les limites de la technologie audio-visuelle !
