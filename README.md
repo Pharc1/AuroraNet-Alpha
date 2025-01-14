@@ -1,6 +1,6 @@
 # AuroraNet 🚀  
 AuroraNet est un modèle de deep learning conçu pour générer des **coordonnées faciales** à partir d'entrées audio, en transformant des spectrogrammes en animations faciales réalistes.  
-🌟 Cette première version s'appuie sur le dataset public **VocaSet** pour valider le concept.  
+🌟 Cette première version s'appuie sur le dataset public **VocazSet** pour valider le concept.  
 
 ---
 
@@ -19,7 +19,7 @@ AuroraNet est un modèle de deep learning conçu pour générer des **coordonné
 ---
 
 ## 🚀 Étapes futures  
-🎯 Une fois l'idée validée avec **VocaSet**, l'objectif est de **passer à un dataset personnalisé**. Ce dataset permettra :  
+🎯 Une fois l'idée validée avec **VocazSet**, l'objectif est de **passer à un dataset personnalisé**. Ce dataset permettra :  
 - 🤩 **Reconnaître les expressions faciales** avec une meilleure précision.  
 - 🤖 **Détecter les mouvements de tête** pour une interaction encore plus naturelle et dynamique.  
 
@@ -45,5 +45,3 @@ Le dataset **VocazSet** utilisé pour cette première version d'AuroraNet est ba
     year = {2019},
     url = {http://voca.is.tue.mpg.de/}
 }
-
-VocazSet est un dataset utilisé pour la capture et l'apprentissage des styles de parole en 3D. Il a été présenté dans l'article "Capture, Learning, and Synthesis of 3D Speaking Styles" (Cudeiro et al., 2019). Pour plus d'informations, vous pouvez consulter le site officiel du dataset ici.
