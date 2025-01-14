@@ -32,3 +32,17 @@ AuroraNet est un modèle de deep learning conçu pour générer des **coordonné
 
 ### 💡 Pourquoi AuroraNet ?  
 AuroraNet apporte une nouvelle dimension aux interactions homme-machine grâce à son approche innovante. Ce projet a pour ambition de repousser les limites de la technologie audio-visuelle !
+
+### 📚 Références  
+Le dataset **VocazSet** utilisé pour cette première version d'AuroraNet est basé sur l'article suivant :
+
+```bibtex
+@inproceedings{VOCA2019,
+    title = {Capture, Learning, and Synthesis of {3D} Speaking Styles},
+    author = {Cudeiro, Daniel and Bolkart, Timo and Laidlaw, Cassidy and Ranjan, Anurag and Black, Michael},
+    booktitle = {Proceedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+    pages = {10101--10111},
+    year = {2019},
+    url = {http://voca.is.tue.mpg.de/}
+}
+
