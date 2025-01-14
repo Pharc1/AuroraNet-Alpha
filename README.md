@@ -36,7 +36,7 @@ AuroraNet apporte une nouvelle dimension aux interactions homme-machine grâce �
 ### 📚 Références  
 Le dataset **VocazSet** utilisé pour cette première version d'AuroraNet est basé sur l'article suivant :
 
-```bibtex
+
 @inproceedings{VOCA2019,
     title = {Capture, Learning, and Synthesis of {3D} Speaking Styles},
     author = {Cudeiro, Daniel and Bolkart, Timo and Laidlaw, Cassidy and Ranjan, Anurag and Black, Michael},
