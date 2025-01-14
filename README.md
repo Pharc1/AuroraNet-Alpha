@@ -46,3 +46,4 @@ Le dataset **VocazSet** utilisé pour cette première version d'AuroraNet est ba
     url = {http://voca.is.tue.mpg.de/}
 }
 
+VocazSet est un dataset utilisé pour la capture et l'apprentissage des styles de parole en 3D. Il a été présenté dans l'article "Capture, Learning, and Synthesis of 3D Speaking Styles" (Cudeiro et al., 2019). Pour plus d'informations, vous pouvez consulter le site officiel du dataset ici.
